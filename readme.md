@@ -1,4 +1,5 @@
 # Sorting Visualizer
+![Sorting Visualization](sortvis.png)
 
 Sorting Visualizer adalah program yang memvisualisasikan algoritma sorting menggunakan SFML di C++. Program ini menampilkan bar yang bergerak sesuai dengan algoritma sorting yang diterapkan.
 
